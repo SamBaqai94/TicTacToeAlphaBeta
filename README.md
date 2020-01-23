@@ -1,4 +1,4 @@
-# TicTacToeAlphaBeta
+# TicTacToeMinimax
 Requirements:
     1.python 3.5+
     2.numpy
